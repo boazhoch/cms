@@ -1,0 +1,12 @@
+{
+  "page": {
+    "attributes": {
+      "name": {
+        "appearance": ""
+      },
+      "Description": {
+        "appearance": "WYSIWYG"
+      }
+    }
+  }
+}
